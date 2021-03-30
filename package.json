@@ -1,0 +1,22 @@
+{
+  "name": "nodejsonehours",
+  "version": "1.0.0",
+  "description": "Node JS Course for Umit",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Umit Asan <umut90asan@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
